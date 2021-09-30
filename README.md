@@ -3,13 +3,14 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DivjotSingh10.DivjotSingh10)
 <br /> 
 
-<center> I like technology and follow advancements in technology<center><br>
-  <center>Currently I am working on my Portfolio using React</center>
-<br />
-  
-  ![Divjot's Language stats](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DivjotSingh10&layout=compact&langs_count=8&hide_border=true)
-  <br />
-  
+### 👨🏻‍💻 &nbsp; About Me
+
+💻 &nbsp;I'm a software developer and currently in my last semester at Sheridan College. \
+🎓&nbsp;I will be graduating from Sheridan College (Computer System Technology - Software development and Network Engineering) in December 2021.\
+🌱 &nbsp;I'm on track for learning more about Azure Artificial Intelligence, and React.\
+✍️ &nbsp;In my free time, I read books, and exercise.
+
+
   ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
