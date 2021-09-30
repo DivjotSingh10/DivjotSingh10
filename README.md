@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+<center> I like technology and follow advancements in technology<center><br>
+  <center>Currently I am working on my Portfolio using React</center>
 <ul>
   <li></li>
   <li></li>
