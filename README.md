@@ -27,7 +27,7 @@
 ![jUnit](https://img.shields.io/badge/jUnit%20-%23150458.svg?&style=flat&logo=Java&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman&logoColor=FFA518)\
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-
+![Hadoop](https://img.shields.io/badge/-Hadoop-05122A?style=flat&logo=hadoop)&nbsp;
 
   
  ### 📫 &nbsp; How to reach me:
