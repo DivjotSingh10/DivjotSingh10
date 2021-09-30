@@ -3,4 +3,4 @@
 <center> I like technology and follow advancements in technology<center><br>
   <center>Currently I am working on my Portfolio using React</center>
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=DivjotSingh10.DivjotSingh10)
