@@ -2,8 +2,5 @@
 (https://www.linkedin.com/in/divjotchawla/)
 <center> I like technology and follow advancements in technology<center><br>
   <center>Currently I am working on my Portfolio using React</center>
-<ul>
-  <li></li>
-  <li></li>
-  <li></li>
-  </ul>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=isupersky.isupersky)
