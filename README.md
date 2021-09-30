@@ -29,7 +29,7 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse)&nbsp;
 ![Unity](https://img.shields.io/badge/-Unity-05122A?style=flat&logo=unity)&nbsp;
-![C#](https://img.shields.io/badge/-C#-05122A?style=flat&logo=c#)
+![ASP.NET](https://img.shields.io/badge/-ASP.NET-05122A?style=flat&logo=asp)
 
 
   
