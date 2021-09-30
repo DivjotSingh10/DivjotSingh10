@@ -7,7 +7,7 @@
 
 💻 &nbsp;I'm a software developer and currently in my last semester at Sheridan College. \
 🎓&nbsp;I will be graduating from Sheridan College with a Advanced Diploma in Computer System Technology - Software Development and Network Engineering in December 2021.\
-🌱 &nbsp;I'm on track for learning more about Azure Artificial Intelligence, and React.\
+🌱 &nbsp;I'm on track to learn more about Azure Artificial Intelligence, and React.\
 ✍️ &nbsp;In my free time, I read books, and exercise.
 
 
