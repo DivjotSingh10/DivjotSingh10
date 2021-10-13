@@ -5,10 +5,10 @@
 
 ### 👨🏻‍💻 &nbsp; About Me
 
-💻 &nbsp;I'm a student and have previously worked as an Intern in TD Bank, Government of Ontario and Enbridge Inc. \
-🎓&nbsp;I will be graduating from Sheridan College with a Advanced Diploma in <b>Computer System Technology - Software Development and Network Engineering</b> in December 2021.\
-✍️ &nbsp;I'm on track to learn more about Azure Artificial Intelligence, and React.\
-🌱 &nbsp;In my free time, I read books, and exercise.
+💻 &nbsp; I'm a student and have previously worked as an Intern in TD Bank, Government of Ontario and Enbridge Inc. \
+🎓&nbsp; I will be graduating from Sheridan College with a Advanced Diploma in <b>Computer System Technology - Software Development and Network Engineering</b> in December 2021.\
+✍️ &nbsp; I'm on track to learn more about Azure Artificial Intelligence, and React.\
+🌱 &nbsp; In my free time, I read books, and exercise.
 
 
   ### 🛠 &nbsp;Tech Stack
