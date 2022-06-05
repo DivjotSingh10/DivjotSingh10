@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="29px"> Hey, I'm Divjot Chawla
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> Hey, I'm Divjot Chawla
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DivjotSingh10.DivjotSingh10)
 <br /> 
