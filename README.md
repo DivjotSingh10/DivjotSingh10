@@ -7,7 +7,7 @@
 
 💻 &nbsp; I'm currently working as a Sr. Business Systems Analyst at Canadian Tire and have previously worked as an Intern in TD Bank, Government of Ontario and Enbridge Inc. \
 🎓&nbsp; I graduated from Sheridan College with a Advanced Diploma in <b>Computer System Technology - Software Development and Network Engineering</b> in December 2021.\
-✍️ &nbsp; I'm on track to learn more about Azure Artificial Intelligence, Cloud and Data.\
+✍️ &nbsp; I'm on track to learn more about Artificial Intelligence, Cloud and Data.\
 🌱 &nbsp; In my free time, I read books, and exercise.
 
 
