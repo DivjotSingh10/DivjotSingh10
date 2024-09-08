@@ -1,4 +1,4 @@
-## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> Hey, I'm Divjot Chawla
+## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> Hey, I'm Div
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=DivjotSingh10.DivjotSingh10)
 <br /> 
@@ -32,11 +32,5 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=flat&logo=flutter)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=swift)
 
-  
- ### 📫 &nbsp; How to reach me:
-  <a href="https://www.linkedin.com/in/divjotchawla/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
 
-<a href="mailto:chawladivjot10@gmail.com">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
 
