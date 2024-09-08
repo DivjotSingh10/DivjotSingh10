@@ -1,6 +1,6 @@
 ## <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="29px"> Hey, I'm Div
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=DivjotSingh10.DivjotSingh10)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Dlearnstech.Dlearnstech)
 <br /> 
 
 ### 👨🏻‍💻 &nbsp; About Me
